@@ -1,4 +1,4 @@
-#h1 Getting and Cleaning Data - Course Project
+# Getting and Cleaning Data - Course Project
 
 
 This repository holds the R code and documentation files for the Data Science's track course "Getting and Cleaning data."
